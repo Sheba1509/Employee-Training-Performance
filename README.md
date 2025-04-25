@@ -11,14 +11,24 @@ Part 1: Excel - Advanced Cleaning Tasks
  
 Part 2: Power BI Analysis Tasks
 1.	Create new calculated columns:
+
 o	Improvement = Post_Training_Score - Pre_Training_Score 
+
 o	Experience_Level based on Join_Date (e.g., <2 years = Junior) 
+
 2.	Visualizations:
+
 o	Improvement by Department and Training_Program 
+
 o	Feedback Scores (Manager & Peer) by Education_Level 
+
 o	Attendance Rate by Department 
+
 3.	KPI Cards:
+
 o	Average Improvement 
+
 o	% of Employees with > 20 improvement
+
 o	Avg Feedback Scores 
 
