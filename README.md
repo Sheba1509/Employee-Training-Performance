@@ -9,7 +9,7 @@ Part 1: Excel - Advanced Cleaning Tasks
 7.	Handle missing values Feedback Scores (Manager & Peer). 
 8.	Convert mixed Join_date. 
  
-Part 2: Power BI Analysis Tasks:
+Part 2: Power BI Analysis Tasks
 1.	Create new calculated columns:
 o	Improvement = Post_Training_Score - Pre_Training_Score 
 o	Experience_Level based on Join_Date (e.g., <2 years = Junior) 
