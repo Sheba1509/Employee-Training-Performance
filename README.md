@@ -1,4 +1,4 @@
-# Employee-Training-Performance
+# Employee-Training-Performance Analysis
 Part 1: Excel - Advanced Cleaning Tasks
 1.	Standardize Gender values (Male, Female, etc.). 
 2.	Convert mixed Training_Date formats into a standard format. 
